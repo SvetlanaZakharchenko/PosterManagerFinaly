@@ -7,11 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class PosterMoviesTest {
 
     @Test
-    public void shouldShowConstructor(){
-
-    }
-
-    @Test
     void getId() {
     }
 
